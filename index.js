@@ -1,3 +1,4 @@
+//task1
 const myName = "Андрей";
 const programmingLanguage = "JavaScript";
 const courseCreatorName = "Команда Result School";
@@ -13,6 +14,7 @@ let myInfoText = `Всем привет! Меня зовут ${myName}.
 
 console.log(myInfoText);
 
+//task2
 myInfoText = myInfoText.replaceAll("JavaScript", "javascript");
 myInfoText = myInfoText.replaceAll("курс", "КУРС");
 console.log(myInfoText);
